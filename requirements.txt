@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+requests==2.32.3
+dnspython==2.7.0
+tldextract==5.1.2
+whois==1.20240129.2
+scikit-learn==1.5.2
+numpy==2.1.2
